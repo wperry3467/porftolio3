@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>contact</title>
+<!-- TemplateEndEditable -->
+
+<link rel="stylesheet" href="https://use.typekit.net/lwb7sqk.css">
+<link rel="stylesheet" href="https://use.typekit.net/lwb7sqk.css">
+<link rel="stylesheet" href="https://use.typekit.net/lwb7sqk.css">
+	<!-- TemplateBeginEditable name="head" -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+	<li><a href="about.html">About</a></li>
+	<li><a href="blog.html">Blog</a></li>
+	<li><a href="gallery.html">Gallery</a></li>
+	<li><a href="contact.html">Contact</a></li>
+	  </ul>
+  </nav>
+  <!--begin floated elements-->
+  <aside><h3>I'm a man, a son, a student,a teen, a web developer, and I also an art enthusiast.</h3>
+		<h3>Join me as I examine life through various pieces of art.</h3>
+	  <h3>by Caleb Sowah</h3>
+	</aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->  
+	<!--end floated comments-->
+  <footer></footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!doctype html>
+<html><head>
+<meta charset="utf-8">
+<head>
+<meta charset="utf-8">
+<title>Through My Lens</title>
+<link href="styles.css" rel="stylesheet" type="text/css"><style type="text/css">
+nav a:link {
+    color: #0BF5D4;
+    text-decoration: none;
+}
+nav a:visited {
+    color: #5E009C;
+    text-decoration: none;
+}
+nav a:active {
+    color: #4D4D4D;
+    text-decoration: none;
+}
+nav a:hover {
+    text-decoration: none;
+    color: #EDEDED;
+	background-color: #65EBFB;
+	padding: 10px;
+	border-radius: 20px;
+	}
+</style>
+</head>
+	<body>
+<div id="container">
+  <header>&nbsp;</header>
+  <nav><ul>
+	  <li><a href="about.html">About</a></li>
+	  <li><a href="blog.html">Blog</a></li>
+	  <li><a href="basic-template.dwt">Gallery</a></li>
+	  <li><a href="contact.html">Contact</a></li>
+	  </ul></nav>
+<body>
+	<aside><h3>I am a boy, a son, a grandson, a nephew, a student, and I don't wear glasses</h3>
+	<h3>Join me as I examine life through all of my various lenses</h3>
+	  <h3>by Will Perry</h3></aside>
+	<h1></h1>
+	<main><h1>Image Gallery</h1>
+
+	<div class="column">
+	<img a src="placeholder.jpg" width="250" height="250" alt=""/>
+	<img a src="placeholder.jpg" width="250" height="250" alt=""/>
+	<img a src="placeholder.jpg" width="250" height="250" alt=""/>
+	</div>
+	<div class="column">
+	<img a src="placeholder.jpg" width="250" height="250" alt=""/>
+	<img a src="placeholder.jpg" width="250" height="250" alt=""/>
+	<img a src="placeholder.jpg" width="250" height="250" alt=""/>
+	</div>
+	<div class="column">
+	<img a src="placeholder.jpg" width="250" height="250" alt=""/>
+	<img a src="placeholder.jpg" width="250" height="250" alt=""/>
+	<img a src="placeholder.jpg" width="250" height="250" alt=""/>
+	</div></main>
+  <footer>&nbsp;</footer>
+	</body></div></body></head>
+</html>
